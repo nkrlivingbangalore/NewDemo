@@ -4,5 +4,8 @@ class NandanJava
 	{
 		System.out.println("Hello World!");
 		System.out.println("Hello Nandan");
+
+		System.out.println("hi  nandan");
+		System.out.println("welcome nandan");
 	}
 }
